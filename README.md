@@ -1,2 +1,2 @@
 # ARP-Scanner
-Simple ARP scaner for detecting hosts on a network
+Simple ARP scanner for detecting hosts on a network
